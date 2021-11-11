@@ -1,12 +1,11 @@
-# YT_Django_Project_Ecommerce
+# Django_Project_ClaseProyectos
 
-## Instructions
+## Instrucciones
+1. Descargar
+2. Extraer
+3. Abrir con visual studio code
 
-1. Download
-2. Extract in a folder
-3. Open with visual studio code
-
-Commands:
+Comandos:
 
     py -m venv venv
     venv\Scripts\activate
@@ -15,4 +14,4 @@ Commands:
 
 # Admin login
 1. http://127.0.0.1:8000/admin
-2. a@a.com and password admin"# ProyectoPizza" 
+2. Crear Superusuario desde la terminal
